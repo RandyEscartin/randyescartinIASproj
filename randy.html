@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home - Myblogs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body class="home11">
+      <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+         <a class="hi navbar-brand font-weight-bold" href="#Home"><b><strong>Ran Web</strong></b></a>
+         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+          <span class="ho navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">         
+             <div class="navbar-nav text-uppercase text-end">
+                <a class="nav-link px-lg-4 rounded" href="#Home">Home</a>
+                <a class="nav-link px-lg-4 rounded" href="#Home">About</a>
+                <a class="nav-link px-lg-4 rounded" href="#Home">Portfolio</a>
+                <a class="nav-link px-lg-4 rounded" href="#Home">Works</a>
+              </div>
+            </div>
+          </div>
+        </nav> 
+    </div>
+<section id="Home" class="home">
+  <img class="hops" src="image/pic1.png"></div>
+  <h1 class="display-6">Welcome to MYBLOG in the Living IT Era</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 custom-col">
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a href="https://www.tiktok.com/@randyescartin16"><i class="fab fa-tiktok border border-dark rounded-circle p-1"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/randyescartinjr.shesh"><i class="fab fa-facebook border border-dark rounded-circle p-1"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://twitter.com/Randyescartin1"><i class="fab fa-twitter border border-dark rounded-circle p-1"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#"><i class="fab fa-instagram border border-dark rounded-circle p-1"></i></a>
+            </li>
+          </ul>
+        </div>
+      <div>
+   </div>
+  </section>  
+</body>
+</html>
