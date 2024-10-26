@@ -123,3 +123,41 @@ body {
       font-size: 1.2rem;
     }
   }
+
+
+
+  .star-rating {
+    display: flex;
+    cursor: pointer;
+}
+.star-rating input {
+    display: none;
+}
+.star-rating label {
+    font-size: 30px;
+    color: lightgray;
+}
+.star-rating input:checked ~ label {
+    color: gold;
+}
+.star-rating label:hover,
+.star-rating label:hover ~ label {
+    color: gold;
+}
+
+
+
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
